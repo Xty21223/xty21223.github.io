@@ -1,4 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/Main_Dark.png) Xty21223 Home Page
+# Xty21223 Home Page
 This is only a blog, and you can acess all of this on the website.
 ## Satus:
 ⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
@@ -21,3 +21,6 @@ As our site is still in dev, many of these versions are not ready for use, but a
 In order to test the github server and your client, go to /test.html
 ## This is a G-test.
 ### It's not meant only for small scale tests, and is not meant for server functions other than callback.
+# Branding
+### As the copany has been shut down for rebranding, we have transfered to CUBE logo. Hope you like it!
+![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/Main_Dark.png)
