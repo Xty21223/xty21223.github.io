@@ -13,4 +13,4 @@ As our site is still in dev, many of these versions are not ready for use, but a
 
 ## Reporting a Vulnerability
 
-Sorry, This is not avalible.
+Sorry, This is not avalible yet.
