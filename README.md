@@ -1,4 +1,4 @@
-# ![Logo](Main_Dark.png | width=100) Xty21223 Home Page
+# ![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/Main_Dark.png | width=100) Xty21223 Home Page
 This is only a blog, and you can acess all of this on the website.
 ## Satus:
 ⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
