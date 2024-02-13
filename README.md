@@ -1,4 +1,4 @@
-# ![Logo](https://cdn.dribbble.com/users/31856/screenshots/2168727/media/2498fe31a373bec4acd361f1b623e33c.gif) Xty21223 Home Page
+# ![Logo](Main_Dark.png | width=100) Xty21223 Home Page
 This is only a blog, and you can acess all of this on the website.
 ## Satus:
 ⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
