@@ -1,5 +1,6 @@
 # Xty21223 Home Page
-This is only a blog, and you can acess all of this on the website.
+## This is a blog.
+####  You can acess all of this on the website.
 ## Satus:
 ⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
 ### Domain
