@@ -24,4 +24,4 @@ In order to test the github server and your client, go to /test.html
 ### It's not meant only for small scale tests, and is not meant for server functions other than callback.
 # Branding
 ### As the copany has been shut down for rebranding, we have transfered to CUBE logo. Hope you like it!
-![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg =x250)
+![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg=x250)
