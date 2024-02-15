@@ -2,14 +2,14 @@
 ## This is a blog.
 ####  You can acess all of this on the website.
 ## Satus:
-⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
+#### ⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
 ### Domain
-I plan to move this to a new domain, for php. But for now, xty21223 @ github pages is fine.
+#### I plan to move this to a new domain, for php. But for now, xty21223 @ github pages is fine.
 # Security
 
 ## Supported Versions
 
-As our site is still in dev, many of these versions are not ready for use, but are still listed.
+#### As our site is still in dev, many of these versions are not ready for use, but are still listed.
 
 | Version | Supported?          |
 | ------- | ------------------ |
@@ -19,9 +19,9 @@ As our site is still in dev, many of these versions are not ready for use, but a
 | < Past versions   | :x:                |
 
 # Github server testing
-In order to test the github server and your client, go to /test.html
+##### In order to test the github server and your client, go to /test.html
 ## This is a G-test.
 ### It's not meant only for small scale tests, and is not meant for server functions other than callback.
 # Branding
 ### As the copany has been shut down for rebranding, we have transfered to CUBE logo. Hope you like it!
-![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg=x250)
+![Logo](https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg)
