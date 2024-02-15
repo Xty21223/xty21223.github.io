@@ -13,4 +13,4 @@ As our site is still in dev, many of these versions are not ready for use, but a
 
 ## Reporting a Vulnerability
 
-Sorry, This is not avalible yet.
+Google form just released! Check it out at https://forms.gle/b68qFVq3juij11qc9
