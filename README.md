@@ -13,10 +13,10 @@
 
 | Version | Supported?          |
 | ------- | ------------------ |
-| BETA   | :white_check_mark: |
-| ALPHA   | :x:                |
+| `BETA`   | :white_check_mark: |
+| `ALPHA`   | :x:                |
 | Current site   | :question: |
-| < Past versions   | :x:                |
+| `< Past versions`   | :x:                |
 
 # Github server testing
 ##### In order to test the github server and your client, go to /test.html
