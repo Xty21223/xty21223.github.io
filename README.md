@@ -3,6 +3,7 @@
 ####  You can acess all of this on the website.
 ## Satus:
 #### ⚠⚠⚠ | UNDER DEVELOPEMENT | ⚠⚠⚠
+#### [![CodeQL](https://github.com/Xty21223/xty21223.github.io/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/Xty21223/xty21223.github.io/actions/workflows/github-code-scanning/codeql)
 ### Domain
 #### I plan to move this to a new domain, for php. But for now, xty21223 @ github pages is fine.
 # Security
