@@ -6,7 +6,7 @@
 ### Domain
 #### I plan to move this to a new domain, for php. But for now, xty21223 @ github pages is fine.
 # Security
-<a href="https://github.com/Xty21223/xty21223.github.io?tab=security-ov-file">Security is here.</a>
+<h3><a href="https://github.com/Xty21223/xty21223.github.io?tab=security-ov-file">Security is here.</a></h3>
 # Github server testing
 ##### In order to test the github server and your client, go to /test.html
 ## This is a G-test.
