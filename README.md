@@ -24,4 +24,4 @@
 ### It's not meant only for small scale tests, and is not meant for server functions other than callback.
 # Branding
 ### As the copany has been shut down for rebranding, we have transfered to CUBE logo. Hope you like it!
-<img src="https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg" width="150%" height="150%"
+<img src="https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg" width="150%" height="150%"></img>
