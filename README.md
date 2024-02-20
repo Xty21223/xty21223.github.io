@@ -13,6 +13,6 @@
 ## This is a G-test.
 ### It's not meant only for small scale tests, and is not meant for server functions other than callback.
 # Branding
-### As the copany has been shut down for rebranding, we have transfered to CUBE logo. Hope you like it!
+### As the company has been shut down for rebranding, we have transfered to CUBE logo. Hope you like it!
 <img src="https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Dark.svg" width="50%" height="50%"></img><img src="https://raw.githubusercontent.com/Xty21223/xty21223.github.io/main/logo/main/Main_Light.svg" width="50%" height="50%"></img>
 <h3>You have reached the end!</h3>
