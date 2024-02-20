@@ -9,7 +9,7 @@
 # Security
 ### <a href="https://github.com/Xty21223/xty21223.github.io?tab=security-ov-file">Security is here.</a>
 # Github server testing
-##### In order to test the github server and your client, go to /test.html
+##### In order to test the github server and your client, go to `/test.html`
 ## This is a G-test.
 ### It's not meant only for small scale tests, and is not meant for server functions other than callback.
 # Branding
