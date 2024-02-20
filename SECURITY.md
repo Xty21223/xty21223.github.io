@@ -13,4 +13,4 @@ As our site is still in dev, many of these versions are not ready for use, but a
 
 ## Reporting a Vulnerability
 
-Google form just released! Check it out <a href=¨https://forms.gle/b68qFVq3juij11qc9¨>here</a>
+Google form just released! Check it out <button onclick="location.href = 'https://forms.gle/b68qFVq3juij11qc9';">here</button>
