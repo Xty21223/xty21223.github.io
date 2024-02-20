@@ -6,8 +6,8 @@ As our site is still in dev, many of these versions are not ready for use, but a
 
 | Version | Supported          |
 | ------- | ------------------ |
-| BETA   | :white_check_mark: |
-| ALPHA   | :x:                |
+| `BETA`   | :white_check_mark: |
+| `ALPHA`   | :x:                |
 | Current site   | :question: |
 | < Past versions   | :x:                |
 
