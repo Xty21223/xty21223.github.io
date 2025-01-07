@@ -42,4 +42,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: connect to firebase
-        run: npm install -g firebase-tools
+        run: |
+          npm install -g firebase-tools
+          firebase login
+          firebase init
