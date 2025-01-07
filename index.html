@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyAe2tIiaI60WWG-JZkj-Gcq4YRrsA-eQk8",
+      authDomain: "a89kfr9pdduoylpq7ens22vz8byc8s.firebaseapp.com",
+      projectId: "a89kfr9pdduoylpq7ens22vz8byc8s",
+      storageBucket: "a89kfr9pdduoylpq7ens22vz8byc8s.firebasestorage.app",
+      messagingSenderId: "372130192536",
+      appId: "1:372130192536:web:fab477aef42d7d65fd84ed",
+      measurementId: "G-40ZG482KET"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+    </script>
+  </head>
+  <body>
+    This is my website. I am currently connecting to firebase.<br><li>Yes!</li>
+  </body>
+</html>
